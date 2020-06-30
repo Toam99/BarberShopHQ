@@ -1,2 +1,15 @@
 
 barbershop.db
+.gitignore
+app2.rb
+views/visit2.erb
+app3.rb
+views/visit3.erb
+views/layout2.erb
+views/visit4.erb
+public/jquery-simplecolorpicker.css
+public/jquery-simplecolorpicker.css
+views/Index3.erb
+views/Index4.erb
+views/index2.erb
+app4.rb
